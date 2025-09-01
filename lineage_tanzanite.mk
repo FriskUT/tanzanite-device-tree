@@ -14,10 +14,10 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from generic device
 $(call inherit-product, device/xiaomi/generic/device.mk)
 
-PRODUCT_DEVICE := generic
-PRODUCT_NAME := lineage_generic
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := mainline
+PRODUCT_DEVICE := tanzanite 
+PRODUCT_NAME := lineage_tanzanite
+PRODUCT_BRAND := xiaomi
+PRODUCT_MODEL := Redmi Note 14
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
