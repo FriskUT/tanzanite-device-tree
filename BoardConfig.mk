@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/generic
+DEVICE_PATH := device/xiaomi/tanzanite
 
 # A/B
 AB_OTA_UPDATER := true
